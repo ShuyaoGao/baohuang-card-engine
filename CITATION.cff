@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "如果在教学或研究中使用了本项目，请按以下信息引用。If you use this project, please cite it as below."
+title: "baohuang-card-engine: 保皇 (Baohuang (Protect the Emperor) card engine)"
+type: software
+authors:
+  - family-names: Gao
+    given-names: Shuyao
+    email: "gaoshuyao.mk@gmail.com"
+    affiliation: "aSSIST University (Seoul School of Integrated Sciences and Technologies)"
+version: "1.0"
+date-released: "2026-10-14"
+license: MIT
+repository-code: "https://github.com/ShuyaoGao/baohuang-card-engine"
+url: "https://shuyaogao.github.io/baohuang-card-engine/"
+abstract: >-
+  A browser-only teaching demo (AI Teaching Demos): a browser-only teaching demo of Baohuang ("protect the emperor"), a five-player four-deck shedding game: the emperor and a guard against three civilians, with the self-guard variant. The JavaScript engine reproduces the Python engine move-by-move; AIs are rule-based and a side panel explains each greedy decision.
+keywords:
+  - course-demo
+  - card-game
+  - baohuang
+  - game-engine
